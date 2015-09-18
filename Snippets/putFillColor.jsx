@@ -1,10 +1,10 @@
 /**
  * Set RGB color for active SOLIDFILL layer
- * @param {number} r Red color value of 0–255
- * @param {number} g Green color value of 0–255
- * @param {number} b Blue color value of 0–255
+ * @param {number} _r Red color value of 0–255
+ * @param {number} _g Green color value of 0–255
+ * @param {number} _b Blue color value of 0–255
  */
-function putFillColor(r, g, b) {  
+function putFillColor(_r, _g, _b) {  
     var desc1 = new ActionDescriptor(),  
         desc2 = new ActionDescriptor(),  
         desc3 = new ActionDescriptor(),  
