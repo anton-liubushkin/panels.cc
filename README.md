@@ -1,3 +1,5 @@
-# panels.cc
-Russian Adobe Developers community  
-All fun stuff is in the [Wiki](https://github.com/nvkzNemo/panels.cc/wiki)
+Russian Adobe Developers community
+
+---
+
+##### [Статьи и материалы](https://github.com/nvkzNemo/panels.cc/wiki) про разработку расширений, скриптов и панелей для продуктов компании Adobe
